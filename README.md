@@ -58,4 +58,5 @@ INSERT INTO score(id,student_id,subject_id,score) VALUES(1	,'001'	,'1001'	,80),
 (3	,'001'	,'1001',70),
 (4	,'002'	,'1002',60.5);
 ```
-![sql运行](./S1P7PFV3DWXOAO%0T4KAH2X.png)
+![sql运行](https://github.com/geticsen/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/S1P7PFV3DWXOAO%250T4KAH2X.png?raw=true)
+![sql运行1](https://github.com/geticsen/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/%7BFH7KLV%7DJYUFC0HL%7BBIBOWC.png?raw=true)
